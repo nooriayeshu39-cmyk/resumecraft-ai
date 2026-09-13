@@ -1,0 +1,6 @@
+{
+  "name": "ResumeCraft AI",
+  "description": "AI-powered resume builder with real-time preview, intelligent content polish using Gemini, customizable templates, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
